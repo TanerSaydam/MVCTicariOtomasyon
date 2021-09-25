@@ -1,0 +1,46 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<Cariler>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mb-4">Cariler</h1>
+<ol class="breadcrumb mt-4">
+    <li class="breadcrumb-item"><a href="/Home/Index">Ana Sayfa</a></li>
+    <li class="breadcrumb-item active">Cariler</li>
+</ol>
+<div class="mb-4">
+    <table class="w3-table-all w3-hoverable table-bordered">
+        <thead>
+            <tr class="w3-light-grey">
+                <th>Sno</th>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>Şehir</th>
+                <th>Mail</th>
+                <th>Sil</th>
+                <th>Güncelle</th>
+                <th>Satış Geçmişi</th>
+            </tr>
+        </thead>
+
+        @{int z = 0;}
+        @foreach (var x in Model)
+        {
+    <tr>
+        <td>@{z++; } @z</td>
+        <td>@x.CariAd</td>
+        <td>@x.CariSoyad</td>
+        <td>@x.CariSehir</td>
+        <td>@x.CariMail</td>
+        <td><a href="/Cari/CariSil/@x.Cariid" class="btn btn-danger">Sil</a></td>
+        <td><a href="/Cari/CariGetir/@x.Cariid" class="btn btn-success">Güncelle</a></td>
+        <td><a href="/Cari/CariSatisGecmisi/@x.Cariid" class="btn btn-info">Satış Geçmişi</a></td>
+    </tr>
+        }
+    </table>
+</div>
+
+<a href="/Cari/YeniCari/" class="btn btn-primary">Yeni Cari</a>
+

@@ -1,0 +1,40 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<Departman> 
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Departman</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item active">Departman</li>
+</ol>
+<div class="mb-4">
+    <table class="w3-table-all w3-hoverable table-bordered">
+        <thead>
+            <tr class="w3-light-grey">
+                <th>Sno</th>
+                <th>Departman</th>
+                <th>Sil</th>
+                <th>Güncelle</th>
+                <th>Departman Listesi</th>
+            </tr>
+        </thead>
+        @{ int z = 0;}
+        @foreach (var x in Model)
+        {
+    <tr>
+        <td>@{z++;} @z </td>
+        <td>@x.DepartmanAd</td>
+        <td><a href="/Departman/DepartmanSil/@x.Departmanid" class="btn btn-danger"><i class="fa fa-trash-alt"></i> Sil</a></td>
+        <td><a href="/Departman/DepartmanGetir/@x.Departmanid" class="btn btn-success"><i class="fa fa-edit"></i> Güncelle</a></td>
+        <td><a href="/Departman/DepartmanDetay/@x.Departmanid" class="btn btn-info"><i class="fa fa-address-book"></i> Departman Listesi</a></td>        
+    </tr>
+        }
+    </table>
+    <br />    
+</div>
+
+<a href="/Departman/DepartmanEkle/" class="btn btn-primary">Departman Ekle</a>
+

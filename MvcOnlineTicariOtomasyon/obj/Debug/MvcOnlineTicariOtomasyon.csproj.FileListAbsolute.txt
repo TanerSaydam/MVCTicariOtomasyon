@@ -1,0 +1,332 @@
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll.config
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.pdb
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe.config
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.rsp
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe.config
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.rsp
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.AppContext.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Console.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Globalization.Calendars.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Http.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Sockets.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.ValueTuple.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe.config
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.rsp
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\WebGrease.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.pdb
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csprojAssemblyReference.cache
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CoreCompileInputs.cache
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CopyComplete
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.pdb
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.xml
+C:\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.pdb
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.rsp
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.rsp
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Console.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Http.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\WebGrease.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.pdb
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csprojAssemblyReference.cache
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CopyComplete
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Projelerim\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.pdb
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.pdb
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.rsp
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.rsp
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Console.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Http.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\WebGrease.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.pdb
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csprojAssemblyReference.cache
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CopyComplete
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.dll
+C:\Users\Taner\Desktop\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.pdb
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll.config
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\MvcOnlineTicariOtomasyon.pdb
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.exe.config
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csc.rsp
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.exe.config
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\csi.rsp
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.AppContext.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Console.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Http.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Net.Sockets.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.ValueTuple.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.exe.config
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\vbc.rsp
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\WebGrease.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Helpers.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Mvc.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Optimization.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.Razor.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Deployment.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\System.Web.WebPages.Razor.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Newtonsoft.Json.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Antlr3.Runtime.pdb
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.AssemblyReference.cache
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CoreCompileInputs.cache
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.csproj.CopyComplete
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.dll
+E:\Programlar\Eğitim Aldığım Projeler\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.pdb

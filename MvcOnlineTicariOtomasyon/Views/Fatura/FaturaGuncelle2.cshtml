@@ -1,0 +1,25 @@
+﻿@model MvcOnlineTicariOtomasyon.Models.Siniflar.Faturalar
+@{
+    Layout = null;
+}
+
+@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+@Html.Label("Seri No")
+@Html.TextBoxFor(x => x.FaturaSeriNo, new { @class = "form-control" })
+@Html.ValidationMessageFor(x => x.FaturaSeriNo, "", new { @class = "text-danger" })
+@Html.Label("Sıra No")
+@Html.TextBoxFor(x => x.FaturaSiraNo, new { @class = "form-control" })
+@Html.Label("Tarih")
+@Html.TextBoxFor(x => x.Tarih, new { @class = "form-control" })
+@Html.Label("Vergi Dairesi")
+@Html.TextBoxFor(x => x.VergiDairesi, new { @class = "form-control" })
+@Html.Label("Saat")
+@Html.TextBoxFor(x => x.Saat, new { @class = "form-control" })
+@Html.Label("Teslim Eden")
+@Html.TextBoxFor(x => x.TeslimEden, new { @class = "form-control" })
+@Html.Label("Teslim Alan")
+@Html.TextBoxFor(x => x.TeslimAlan, new { @class = "form-control" })
+@Html.Label("Toplam")
+@Html.TextBoxFor(x => x.Toplam, new { @class = "form-control" })
+@Html.HiddenFor(x => x.Faturaid)
+

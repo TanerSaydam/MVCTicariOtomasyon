@@ -1,0 +1,51 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<Personel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Personel</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item active">Personel</li>
+</ol>
+<div class="mb-4">
+    <a href="/Personel/Index/" class="btn btn-info">Aktif Personeli Görüntüle</a>
+    <a href="/Personel/Index2/" class="btn btn-info">Tüm Personeli Görüntüle</a>
+    <br />
+</div>
+<div class="mb-4">
+    <table class="w3-table-all w3-hoverable table-bordered">
+        <thead>
+            <tr class="w3-light-grey">
+                <th>Sno</th>
+                <th>Adı</th>
+                <th>Soyadı</th>
+                <th>Görsel</th>
+                <th>Departman</th>
+                <th>Sil</th>
+                <th>Güncelle</th>
+                <th>Satış Detay</th>
+            </tr>
+        </thead>
+        @{ int z = 0;}
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>@{z++;} @z </td>
+                <td>@x.PersonelAd</td>
+                <td>@x.PersonelSoyad</td>
+                <td>@x.PersonelGorsel</td>
+                <td>@x.Departman.DepartmanAd</td>
+                <td><a href="/Personel/PersonelSil/@x.Personelid" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Personel/PersonelGetir/@x.Personelid" class="btn btn-success">Güncelle</a></td>
+                <td><a href="/Personel/PersonelSatisDetay/@x.Personelid" class="btn btn-info">Satış Detay</a></td>
+            </tr>
+        }
+    </table>
+    <br />
+</div>
+
+<a href="/Personel/PersonelEkle/" class="btn btn-primary">Personel Ekle</a>
+

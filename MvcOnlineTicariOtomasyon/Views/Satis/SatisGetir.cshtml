@@ -1,0 +1,36 @@
+﻿@model MvcOnlineTicariOtomasyon.Models.Siniflar.SatisHareket
+@{
+    ViewBag.Title = "SatisGetir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Satış Güncelle</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item"><a href="/Satis/Index/">Satışlar</a></li>
+    <li class="breadcrumb-item active">Satış Güncelle</li>
+</ol>
+<div class="mb-4">
+    @using (Html.BeginForm("SatisGuncelle", "Satis", FormMethod.Post))
+    {
+        <hr />
+        @Html.Label("Tarih")
+        @Html.TextBoxFor(x => x.Tarih, new { @class = "form-control" })
+        @Html.Label("Cari")
+        @Html.DropDownListFor(x => x.Cariid, (List<SelectListItem>)ViewBag.dgr1, new { @class = "form-control" })
+        @Html.Label("Ürün")
+        @Html.DropDownListFor(x => x.Urunid, (List<SelectListItem>)ViewBag.dgr2, new { @class = "form-control" })
+        @Html.Label("Adet")
+        @Html.TextBoxFor(x => x.Adet, new { @class = "form-control" })
+        @Html.Label("Fiyat")
+        @Html.TextBoxFor(x => x.Fiyat, new { @class = "form-control" })
+        @Html.Label("Toplam Tutar")
+        @Html.TextBoxFor(x => x.ToplamTutar, new { @class = "form-control" })
+        @Html.Label("Personel")
+        @Html.DropDownListFor(x => x.Personelid, (List<SelectListItem>)ViewBag.dgr3, new { @class = "form-control" })
+        @Html.HiddenFor(x=> x.Satisid)
+        <br /><hr />
+        <button class="btn btn-primary">Güncelle</button>
+    }
+</div>
+

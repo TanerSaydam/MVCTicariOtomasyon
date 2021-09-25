@@ -1,0 +1,51 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<Urun>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Ürün Listesi</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item active">Ürünler</li>    
+</ol>
+<div class="mb-4">
+    <table class="w3-table-all w3-hoverable table-bordered">
+        <thead>
+            <tr class="w3-light-grey">
+                <th>Sno</th>
+                <th>Ürün Adı</th>
+                <th>Marka</th>
+                <th>Stok</th>
+                <th>Alış Fiyatı</th>
+                <th>Satış Fiyatı</th>
+                @*<th>Durum</th>*@
+                <th>Kategori</th>
+                <th>Görsel</th>
+                <th>Sil</th>
+                <th>Güncelle</th>
+            </tr>
+        </thead>
+        @{int z = 0; }
+            @foreach (var u in Model)
+            {
+            <tr>
+                <td>@{z++;} @z</td>
+                <td>@u.UrunAd</td>
+                <td>@u.Marka</td>
+                <td>@u.Stok</td>
+                <td>@u.AlisFiyat.ToString("#,##0.00")</td>
+                <td>@u.SatisFiyat.ToString("#,##0.00")</td>
+                @*<td>@u.Durum</td>*@
+                <td>@u.Kategori.KategoriAd</td>
+                <td>@u.UrunGorsel</td>
+                <td><a href="/Urun/UrunSil/@u.Urunid" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Urun/UrunGetir/@u.Urunid" class="btn btn-success">Güncelle</a></td>
+            </tr>
+        }
+    </table>
+    <br />
+    <a href="/Urun/YeniUrun/" class="btn btn-primary">Yeni Ürün</a>
+</div>
+

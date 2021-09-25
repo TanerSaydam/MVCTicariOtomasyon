@@ -1,0 +1,31 @@
+﻿@model MvcOnlineTicariOtomasyon.Models.Siniflar.FaturaKalem
+@{
+    ViewBag.Title = "KalemEkle";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Kalem Ekle</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item"><a href="/Fatura/Index/">Faturalar</a></li>
+    <li class="breadcrumb-item active">Kalem Ekle</li>
+</ol>
+
+<div class="mb-4">
+    <form class="form-group" method="post">
+        <hr />
+        @Html.Label("Açıklama")
+        @Html.TextBoxFor(x => x.Aciklama, new { @class = "form-control" })
+        @Html.Label("Miktar")
+        @Html.TextBoxFor(x => x.Miktar, new { @class = "form-control" })
+        @Html.Label("Birim Fiyat")
+        @Html.TextBoxFor(x => x.BirimFiyat, new { @class = "form-control" })
+        @Html.Label("Tutar")
+        @Html.TextBoxFor(x => x.Tutar, new { @class = "form-control" })        
+        @*@Html.Label("Fatura ID")
+        @Html.TextBoxFor(x=> x.Faturaid, new { @class = "form-control" })*@
+        @Html.HiddenFor(x=>x.Faturaid)
+        <br /><hr />
+        <button class="btn btn-info">Kaydet</button>
+    </form>
+</div>

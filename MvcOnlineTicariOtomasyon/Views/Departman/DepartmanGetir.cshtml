@@ -1,0 +1,26 @@
+﻿@model MvcOnlineTicariOtomasyon.Models.Siniflar.Departman
+@{
+    ViewBag.Title = "DepartmanGetir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Departman Güncelle</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item"><a href="/Departman/Index">Departman</a></li>
+    <li class="breadcrumb-item active">Departman Güncelle</li>
+</ol>
+<div class="mb-4">
+    @using (Html.BeginForm("DepartmanGuncelle", "Departman", FormMethod.Post))
+    {
+        <hr />
+        @Html.Label("Departman Adı")
+        @Html.TextBoxFor(x => x.DepartmanAd, new { @class = "form-control" })
+        @Html.Label("Durum")
+        @Html.CheckBoxFor(x => x.Durum, new { @class = "form-control" })
+        @Html.HiddenFor(x => x.Departmanid)
+        <br /><hr />
+        <button class="btn btn-primary">Kaydet</button>
+    }
+</div>
+

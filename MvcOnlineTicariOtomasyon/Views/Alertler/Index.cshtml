@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+<button id="btn1" class="btn btn-primary">Deneme</button>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+    $('#btn1').click(function () {
+        swal("Good job!", "You clicked the button!", "success");
+    });
+</script>
+
+
+<input type="text" id="txt1" onkeyup="sum();" />
+<input type="text" id="txt2" onkeyup="sum();" />
+<input type="text" id="txt3" />
+
+<script>
+    function sum() {
+        var sayi1 = document.getElementById('txt1').value;
+        var sayi2 = document.getElementById('txt2').value;
+        var sayi3 = parseInt(sayi1) * parseInt(sayi2);
+        if (!isNaN(sayi3))
+        {
+            document.getElementById('txt3').value = sayi3;
+        }
+    }
+</script>
+

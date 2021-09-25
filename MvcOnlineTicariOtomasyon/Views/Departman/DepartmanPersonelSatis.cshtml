@@ -1,0 +1,58 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<SatisHareket> 
+@{
+    ViewBag.Title = "DepartmanPersonelSatis";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">@ViewBag.pad Satış Detayları</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item"><a href="/Departman/Index/">Departman</a></li>
+    <li class="breadcrumb-item"><a href="/Departman/DepartmanDetay/@ViewBag.did">@ViewBag.dad Detay</a></li>
+    <li class="breadcrumb-item active">@ViewBag.pad Satış Detayları</li>
+</ol>
+<div class="mb-4">
+    <table class="w3-table-all w3-hoverable table-bordered">
+        <thead>
+            <tr class="w3-light-grey">
+                <th>Sno</th>
+                <th>Tarih</th>
+                <th>Cari</th>
+                <th>Ürün</th>
+                <th>Adet</th>
+                <th>Fiyat</th>
+                <th>Toplam Tutar</th>                
+                <th>Yazdır</th>
+            </tr>
+        </thead>
+        @{ int z = 0; double toplam = 0;}
+        @foreach (var x in Model)
+        {
+    <tr>
+        <td>@{z++;} @z </td>
+        <td>@(x.Tarih.ToString("dd.MM.yyyy"))</td>
+        <td>@x.Cariler.CariAd @x.Cariler.CariSoyad</td>
+        <td>@x.Urun.UrunAd</td>
+        <td>@x.Adet</td>
+        <td>@x.Fiyat.ToString("#,##0.00")</td>
+        <td>@x.ToplamTutar.ToString("#,##0.00")</td>        
+        <td><a href="#" class="btn btn-dark">Yazdır</a></td>
+        @{ toplam = toplam + Convert.ToDouble(x.ToplamTutar);}
+    </tr>
+        }
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Toplam Tutar:</td>
+        <td>@toplam.ToString("#,##0.00")</td>
+        <td></td>
+    </tr>
+    </table>
+    <br />   
+    
+</div>
+

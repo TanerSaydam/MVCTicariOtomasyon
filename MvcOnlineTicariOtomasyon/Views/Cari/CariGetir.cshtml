@@ -1,0 +1,32 @@
+﻿@model MvcOnlineTicariOtomasyon.Models.Siniflar.Cariler
+@{
+    ViewBag.Title = "CariGetir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1 class="mt-4">Yeni Cari</h1>
+<ol class="breadcrumb mt-4">
+    <li class="breadcrumb-item"><a href="/Home/Index/">Ana Sayfa</a></li>
+    <li class="breadcrumb-item"><a href="/Cari/Index/">Cariler</a></li>
+    <li class="breadcrumb-item active">Yeni Cari</li>
+</ol>
+<div class="mb-4">
+    @using (Html.BeginForm("CariGuncelle", "Cari", FormMethod.Post))
+    {
+        <hr />
+        @Html.Label("Adı")
+        @Html.TextBoxFor(x => x.CariAd, new { @class = "form-control" })
+        @Html.Label("Soyadı")
+        @Html.TextBoxFor(x => x.CariSoyad, new { @class = "form-control" })
+        @Html.Label("Şehir")
+        @Html.TextBoxFor(x => x.CariSehir, new { @class = "form-control" })
+        @Html.Label("Mail")
+        @Html.TextBoxFor(x => x.CariMail, new { @class = "form-control" })
+        @Html.Label("Durum")
+        @Html.CheckBoxFor(x => x.Durum, new { @class = "form-control" })
+        @Html.HiddenFor(x => x.Cariid)
+        <br /><hr />
+        <button class="btn btn-primary">Güncelle</button>
+    }
+</div>
+
